@@ -1,0 +1,39 @@
+## Ticket Name ##
+
+- BLOCK RANDOM NUMBERS SCAMS FROM CALLING
+
+## Ticket Component ##
+
+- LVL_0
+
+##  Background Context  ##
+
+- Our client seems to have a constant problem of receiving scam phone calls from abroad posing as a
+  local mobile number.
+
+## Ticket Description ##
+
+- Create a solution to detect if a person calling our client is already a contact in our client's mobile phone,
+  to return that person's contact name but if the number isn't present in their mobile phone,
+  to return contact calling as 'Scam Artist'.
+
+## Assumptions/Dependencies ##
+- Client Provides a sample of phone contact names and phone numbers
+- Developer understands the following topics:
+    - Flow Control
+    - Loops
+    - Data Structures:
+        - Lists
+        - Dictionaries
+    - Functions
+    - Testing
+
+## Acceptance Criteria ##
+
+- All test cases are passing:
+    - A Phone Number exists in the Phone contacts -> Phone Contact Name
+    - A Phone Number does not exist in the Phone contacts - > Scam Artist
+
+## Resources ##
+
+- https://www.w3schools.com/python/
