@@ -1,18 +1,22 @@
 ## Ticket Name ##
 
--
+- Interview Preparation Assistance
 
 ## Ticket Component ##
 
-- LVL_
+- LVL_7
 
 ##  Background Context  ##
 
--
+- Our client are bored working at their current administration job and is looking for a more fulfilling role as a programmer.
+They've noticed that for an entry level position, jobs have been asking to solve 3 common programming brain-teasers.
 
 ## Ticket Description ##
 
-
+- Create 3 individual scripts to solve the following interview topics for our client:
+    - Fizzbuzz
+    - Palindrome
+    - Fibonacci Sequence
 
 ## Assumptions/Dependencies ##
 -
@@ -28,6 +32,7 @@
 ## Acceptance Criteria ##
 
 - All test cases are passing:
+    - Each script has a passing test case
 
 ## Resources ##
 
