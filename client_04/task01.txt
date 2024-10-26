@@ -1,0 +1,34 @@
+## Ticket Name ##
+
+-
+
+## Ticket Component ##
+
+- LVL_
+
+##  Background Context  ##
+
+-
+
+## Ticket Description ##
+
+
+
+## Assumptions/Dependencies ##
+-
+- Developer understands the following topics:
+    - Flow Control
+    - Loops
+    - Data Structures:
+        - Lists
+        - Tuples
+    - Functions
+    - Testing
+
+## Acceptance Criteria ##
+
+- All test cases are passing:
+
+## Resources ##
+
+- https://www.w3schools.com/python/
