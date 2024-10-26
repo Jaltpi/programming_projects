@@ -1,29 +1,31 @@
 ## Ticket Name ##
 
--
+- Marketing File Reorganisations
 
 ## Ticket Component ##
 
-- LVL_
+- LVL_3
 
 ##  Background Context  ##
 
--
+- Our client most recently got a job as marketer and has been taking lots of notes for their new role. Unfortunately
+some of the file need to be renamed.
 
 ## Ticket Description ##
 
-
+- Create a program to rename all the requested files appropriately.
 
 ## Assumptions/Dependencies ##
--
+- Client will provide the necessary files for implementation
 - Developer understands the following topics:
     - Flow Control
     - Loops
     - Data Structures:
         - Lists
-        - Tuples
     - Functions
     - Testing
+    - Basic Unix Commands
+    - Os module
 
 ## Acceptance Criteria ##
 
