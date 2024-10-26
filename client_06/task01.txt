@@ -1,21 +1,21 @@
 ## Ticket Name ##
 
--
+- Automate Car Prices Collection
 
 ## Ticket Component ##
 
-- LVL_
+- LVL_6
 
 ##  Background Context  ##
 
--
+- Our client is missing having a manual car, and heard a specific lot is doing a great deal on their cars.
 
 ## Ticket Description ##
 
-
+- Web scrape the data from the website and email the results to the client in a csv format.
 
 ## Assumptions/Dependencies ##
--
+- Client will provide email and website they wish to be scraped.
 - Developer understands the following topics:
     - Flow Control
     - Loops
@@ -24,10 +24,18 @@
         - Tuples
     - Functions
     - Testing
+    - Packages:
+        - Requests
+        - Beautifulsoup
+        - Smtplib
+    - Containerisation:
+        - Docker
 
 ## Acceptance Criteria ##
 
 - All test cases are passing:
+    - Website is successfully scraped and data is stored into a csv file.
+    - Client receives email with required data.
 
 ## Resources ##
 

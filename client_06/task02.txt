@@ -1,21 +1,22 @@
 ## Ticket Name ##
 
--
+- Automate Google Searches
 
 ## Ticket Component ##
 
-- LVL_
+- LVL_6
 
 ##  Background Context  ##
 
--
+- Our client is often tasked with jobs to do research on topics and comprise an essay of what they learned on the topic.
+
 
 ## Ticket Description ##
 
-
+- Web scrape the data from google searches and email the results to the client in a csv format.
 
 ## Assumptions/Dependencies ##
--
+- Client will provide email and website they wish to be scraped.
 - Developer understands the following topics:
     - Flow Control
     - Loops
@@ -24,10 +25,18 @@
         - Tuples
     - Functions
     - Testing
+    - Packages:
+        - Requests
+        - Beautifulsoup
+        - Smtplib
+    - Containerisation:
+        - Docker
 
 ## Acceptance Criteria ##
 
 - All test cases are passing:
+    - Website is successfully scraped and data is stored into a csv file.
+    - Client receives email with required data.
 
 ## Resources ##
 

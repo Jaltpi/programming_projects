@@ -1,21 +1,21 @@
 ## Ticket Name ##
 
--
+- Automate Admin Login
 
 ## Ticket Component ##
 
-- LVL_
+- LVL_6
 
 ##  Background Context  ##
 
--
+- Our client is of tasked with logging into their admin portal, and retrieving a list of their assignments.
 
 ## Ticket Description ##
 
-
+- Automate the process of logging into the admin portal and retrieving the required list of assignments.
 
 ## Assumptions/Dependencies ##
--
+- Client will provide the admin portal url and login credentials.
 - Developer understands the following topics:
     - Flow Control
     - Loops
@@ -24,10 +24,16 @@
         - Tuples
     - Functions
     - Testing
+    - Packages:
+        - Selenium
+    - Containerisation:
+        - Docker
 
 ## Acceptance Criteria ##
 
 - All test cases are passing:
+    - Website is successfully logged into.
+    - Client receives a list with required data.
 
 ## Resources ##
 
