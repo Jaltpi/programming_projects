@@ -1,33 +1,37 @@
 ## Ticket Name ##
 
--
+- Automate Holiday Invitation Letter Creation
 
 ## Ticket Component ##
 
-- LVL_
+- LVL_2
 
 ##  Background Context  ##
 
--
+- Our client would like to invite her family over to her home to celebrate the upcoming function of Diwali,
+ and she has quick a few people on her mind would she would like to invite.
 
 ## Ticket Description ##
 
-
+- Automate the process of creating all the necessary invitations for our client to send out.
 
 ## Assumptions/Dependencies ##
-- Client Provides a sample of present dimensions for us to use.
+- Client provides a template of letter for us to use.
 - Developer understands the following topics:
     - Flow Control
     - Loops
+    - String Manipulation
     - Data Structures:
         - Lists
-        - Tuples
     - Functions
+    - File Structures (I/O)
     - Testing
 
 ## Acceptance Criteria ##
 
 - All test cases are passing:
+    - An invitation (txt file) is created using the original persons name
+    - The Invitation has the correct person's name in the header.
 
 ## Resources ##
 

@@ -1,21 +1,23 @@
 ## Ticket Name ##
 
--
+- Needle in a Haystack
 
 ## Ticket Component ##
 
-- LVL_
+- LVL_2
 
 ##  Background Context  ##
 
--
+- Our client has recently booked a doctor's appointment for the new year in the month of January,
+    but she can't remember where she stored the information for her appointment in her computer.
 
 ## Ticket Description ##
 
-
+- Find the appointment information for our client programmatically to avoid them having to search each folder
+   for her file.
 
 ## Assumptions/Dependencies ##
--
+- Client provides file structure of her computer and name of her appointment_information.
 - Developer understands the following topics:
     - Flow Control
     - Loops
@@ -28,6 +30,7 @@
 ## Acceptance Criteria ##
 
 - All test cases are passing:
+    - Client can find their file regardless of where it is placed in her current directory.
 
 ## Resources ##
 
