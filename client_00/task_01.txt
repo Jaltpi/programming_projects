@@ -1,0 +1,38 @@
+## Ticket Name ##
+
+- Final Destination Island (New story line)
+
+## Ticket Component ##
+
+- LVL_0
+
+##  Background Context  ##
+
+- Our client has created a terminal text based game as starter project, it initially had good reviews
+    but quickly lost traction due to the story line.
+
+## Ticket Description ##
+
+- Play through the game a few times and take notes on what you would make changes on to improve the story line.
+    - Discuss notes with game developer.
+    - Review Original Code base for the game.
+    - Implement changes into the game.
+
+## Assumptions/Dependencies ##
+- Client Provides a sample of present dimensions for us to use.
+- Developer understands the following topics:
+    - Flow Control
+    - Loops
+    - Data Structures:
+        - Lists
+        - Tuples
+        - Dictionaries
+    - Functions
+
+## Acceptance Criteria ##
+
+- New changes into game story line have been implemented.
+
+## Resources ##
+
+- https://www.w3schools.com/python/
