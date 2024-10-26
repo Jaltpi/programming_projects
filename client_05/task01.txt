@@ -1,21 +1,25 @@
 ## Ticket Name ##
 
--
+- Organisational TODO list
 
 ## Ticket Component ##
 
-- LVL_
+- LVL_5
 
 ##  Background Context  ##
 
--
+- Our client is a busy bee in taking on multiple jobs at one point in their life. They require a web application
+to keep track of their daily activities.
 
 ## Ticket Description ##
 
-
+- Create an TODO list CRUD application. It requires the following functionality:
+    - Create Tasks
+    - Read Tasks
+    - Update Tasks
+    - Delete Tasks
 
 ## Assumptions/Dependencies ##
--
 - Developer understands the following topics:
     - Flow Control
     - Loops
@@ -24,6 +28,15 @@
         - Tuples
     - Functions
     - Testing
+    - Backend Framework:
+        - Fastapi
+    - Front End
+        - HTML
+        - CSS
+    - Database
+        - SQL
+    - Containerisation
+        - Docker
 
 ## Acceptance Criteria ##
 
