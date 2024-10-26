@@ -1,21 +1,24 @@
 ## Ticket Name ##
 
--
+- Automate Patient Confidentially Encoder
 
 ## Ticket Component ##
 
-- LVL_
+- LVL_4
 
 ##  Background Context  ##
 
--
+- Our client is receiving patient information for her to review before sending out to necessary outsourcing
+agents. She notices that recently they have been receiving unencrypted patient data, which is a huge GDPR
+(General Data Protection Regulation) issue.
 
 ## Ticket Description ##
 
-
+- Create a program to encrypt the raw files and produce a new usable file for our client to send
+to the outsourcing team.
 
 ## Assumptions/Dependencies ##
--
+- Our Client will provide a sample file to be encrypted with the associating PII information.
 - Developer understands the following topics:
     - Flow Control
     - Loops
@@ -24,10 +27,14 @@
         - Tuples
     - Functions
     - Testing
+    - CSV
+    - JSON
 
 ## Acceptance Criteria ##
 
 - All test cases are passing:
+    - All Personal Identifiable Information (PII) has been encrypted into a new csv file
+    - All Personal Identifiable Information (PII) has been encrypted into a new JSON file
 
 ## Resources ##
 
