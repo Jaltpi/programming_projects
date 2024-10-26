@@ -32,7 +32,7 @@
 ## Acceptance Criteria ##
 
 - All test cases are passing:
-    - Website is successfully logged into.
+    - Admin Website is successfully logged into.
     - Client receives a list with required data.
 
 ## Resources ##
